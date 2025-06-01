@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Omni-Card-logo.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
